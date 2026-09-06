@@ -172,6 +172,19 @@ function Quiz() {
 }
 
 function CardMatchPage() {
+  const [quizVisible, setQuizVisible] = useState(false);
+
+  useEffect(() => {
+    const quiz = document.querySelector("#quiz");
+    if (!quiz) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => setQuizVisible(Boolean(entry?.isIntersecting)),
+      { threshold: 0.08 },
+    );
+    observer.observe(quiz);
+    return () => observer.disconnect();
+  }, []);
+
   return (
     <main className="min-h-screen overflow-hidden bg-background text-foreground selection:bg-primary selection:text-primary-foreground">
       <header className="absolute inset-x-0 top-0 z-30 border-b border-border/60">
@@ -202,7 +215,7 @@ function CardMatchPage() {
         </div>
       </section>
 
-      <section className="bg-surface py-24 sm:py-32">
+      <section id="how" className="bg-surface py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-5 sm:px-8">
           <Reveal className="grid gap-10 lg:grid-cols-[0.8fr_1.2fr] lg:gap-20">
             <div>
@@ -262,7 +275,7 @@ function CardMatchPage() {
         </Reveal>
       </section>
 
-      <footer className="bg-surface pb-28 pt-14 sm:pb-14">
+      <footer id="privacy" className="bg-surface pb-28 pt-14 sm:pb-14">
         <div className="mx-auto max-w-7xl px-5 sm:px-8">
           <div className="grid gap-10 border-b border-border pb-12 sm:grid-cols-[1fr_auto_auto] sm:gap-16">
             <div><BrandMark /><p className="mt-4 max-w-sm text-sm leading-6 text-muted-foreground">A simpler way to find the credit card that fits your priorities.</p></div>
@@ -273,7 +286,7 @@ function CardMatchPage() {
         </div>
       </footer>
 
-      <div className="fixed inset-x-3 bottom-3 z-40 sm:hidden">
+      <div className={cn("fixed inset-x-3 bottom-3 z-40 transition-all sm:hidden", quizVisible && "pointer-events-none translate-y-20 opacity-0")}>
         <Button className="cta-shimmer h-12 w-full shadow-xl" onClick={scrollToQuiz}>Find my match <ArrowRight /></Button>
       </div>
     </main>

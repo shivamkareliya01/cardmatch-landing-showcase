@@ -1,0 +1,1511 @@
+[
+  {
+    "id": "idfc-first-wealth",
+    "slug": "idfc-first-wealth-credit-card",
+    "name": "FIRST Wealth",
+    "issuer": "IDFC FIRST Bank",
+    "category": "travel",
+    "network": "Visa",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "4 domestic + international visits per quarter (conditional on monthly spend)",
+    "benefits": [
+      "10X reward points on spends above ₹20,000 in a statement cycle",
+      "Conditional complimentary domestic and international lounge access",
+      "Zero joining and annual fee for life"
+    ],
+    "bestFor": "Spenders who want lounge access without ever paying a card fee",
+    "whyItFits": ["International Lounge Access", "Domestic Lounge Visits", "Zero Annual Fee"],
+    "earnCategories": [
+      {
+        "icon": "🚆",
+        "label": "Railway Spends",
+        "rate": "1X Pts on Railway Spends",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "3X Pts on Offline Spends",
+        "theme": "orange"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Link With UPI Apps",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "The '10X Rewards' only applies to incremental spends above ₹20,000 in a month; spends below this threshold earn at a much lower 3X rate.",
+      "Complimentary lounge access is not guaranteed and is conditional on meeting a monthly spend threshold.",
+      "The base unit for earning rewards is ₹150, which is higher than the typical ₹100 for many other cards."
+    ]
+  },
+  {
+    "id": "paisabazaar-paisasave-rupay",
+    "slug": "paisabazaar-paisasave-rupay-credit-card",
+    "name": "Paisabazaar PaisaSave RuPay Credit Card",
+    "issuer": "YES Bank",
+    "category": "bills",
+    "network": "RuPay",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "1% fuel surcharge waiver at all fuel stations",
+      "Cashback on everyday spends including dining",
+      "RuPay network — works with UPI credit-card linking"
+    ],
+    "bestFor": "Entry-level, zero-fee cardholders who want UPI-linkable RuPay spending",
+    "whyItFits": [
+      "Fuel Surcharge Waiver",
+      "Zero Joining and Annual Fee",
+      "Cashback on Everyday Spends"
+    ],
+    "earnCategories": [
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "12pts /₹200 on Dining (Limit ₹3,000/Mo)",
+        "theme": "pink"
+      },
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Fuel Surcharge Waiver",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "4 Pts/₹200 on Utility Bills",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Dining cashback is capped at ₹3,000 of eligible spend per month.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000).",
+      "As a RuPay-only card, some international/online merchants may have limited acceptance."
+    ]
+  },
+  {
+    "id": "hdfc-infinia-metal",
+    "name": "HDFC Infinia Metal",
+    "issuer": "HDFC Bank",
+    "category": "travel",
+    "joiningFee": "₹12,500 + GST",
+    "annualFee": "₹12,500 + GST (waived on ₹10L annual spend)",
+    "loungeAccess": "Unlimited domestic & international (Priority Pass)",
+    "benefits": [
+      "5 reward points per ₹150 spent, among the highest base rates in India",
+      "Unlimited airport lounge access worldwide",
+      "Strong SmartBuy redemption value on flights/hotels"
+    ],
+    "bestFor": "High spenders (₹10L+/yr) who want no lounge or reward ceiling",
+    "invite": "Largely invite-only / very high income eligibility",
+    "slug": "hdfc-infinia-metal",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "International Lounge Access", "Travel & Flight Rewards"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹12,500.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "axis-magnus-burgundy",
+    "name": "Axis Magnus for Burgundy",
+    "issuer": "Axis Bank",
+    "category": "travel",
+    "joiningFee": "₹12,500 + GST",
+    "annualFee": "₹12,500 + GST",
+    "loungeAccess": "Unlimited domestic & international",
+    "benefits": [
+      "Premium travel and dining reward multiplier",
+      "Unlimited lounge access with guest visits",
+      "Strong travel-partner transfer ratios"
+    ],
+    "bestFor": "Ultra-premium spenders wanting a Amex/Infinia-tier alternative",
+    "invite": "Burgundy/high income relationship typically required",
+    "slug": "axis-magnus-for-burgundy",
+    "network": "Visa",
+    "whyItFits": ["International Lounge Access", "Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹12,500.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "axis-atlas",
+    "name": "Axis Atlas",
+    "issuer": "Axis Bank",
+    "category": "travel",
+    "joiningFee": "₹5,000",
+    "annualFee": "₹5,000",
+    "loungeAccess": "18 domestic + 12 international visits/year",
+    "benefits": [
+      "EDGE Miles transferable to 15+ airline & hotel partners",
+      "Balanced mid-tier lounge access, domestic + international",
+      "Good value for frequent-but-not-ultra-premium travellers"
+    ],
+    "bestFor": "Regular flyers who want transferable miles without a ₹10K+ fee",
+    "slug": "axis-atlas",
+    "network": "Visa",
+    "whyItFits": ["International Lounge Access", "Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹5,000.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "hsbc-travelone",
+    "name": "HSBC TravelOne",
+    "issuer": "HSBC Bank",
+    "category": "travel",
+    "joiningFee": "₹4,999 + GST",
+    "annualFee": "₹4,999 + GST (waived on ₹8L annual spend)",
+    "loungeAccess": "4 international + domestic visits/year",
+    "benefits": [
+      "1:1 transferable points to airline/hotel partners incl. Accor ALL",
+      "Strong earn rate on travel bookings",
+      "Good companion card to Atlas/Infinia for a second points pool"
+    ],
+    "bestFor": "Travellers who understand and use airline/hotel transfer partners",
+    "slug": "hsbc-travelone",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "International Lounge Access", "Travel & Flight Rewards"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹4,999.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "icici-emeralde-private-metal",
+    "name": "ICICI Emeralde Private Metal",
+    "issuer": "ICICI Bank",
+    "category": "travel",
+    "joiningFee": "₹12,500",
+    "annualFee": "₹12,500 (waived on ₹10L annual spend)",
+    "loungeAccess": "Unlimited domestic & international",
+    "benefits": [
+      "10x accelerated rewards on ICICI's shopping portal",
+      "Unlimited lounge access, easier approval than some invite-only rivals",
+      "Emirates Skywards co-branded variant available for airline loyalists"
+    ],
+    "bestFor": "High spenders who want Infinia-level perks with easier eligibility",
+    "slug": "icici-emeralde-private-metal",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "International Lounge Access", "Travel & Flight Rewards"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹12,500.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "hdfc-diners-black-metal",
+    "name": "HDFC Diners Club Black Metal",
+    "issuer": "HDFC Bank",
+    "category": "travel",
+    "joiningFee": "₹10,000 + Taxes",
+    "annualFee": "₹10,000 + Taxes",
+    "loungeAccess": "Unlimited, plus 4 free airport meet-and-greet services/year",
+    "benefits": [
+      "3.33% reward rate across all spends, including travel",
+      "Low forex markup for international spending",
+      "Club Marriott, Swiggy One & Amazon Prime memberships on ₹1.5L spend in month 1"
+    ],
+    "bestFor": "Frequent international travellers who want an all-round premium card",
+    "slug": "hdfc-diners-club-black-metal",
+    "network": "Diners Club",
+    "whyItFits": ["Domestic Lounge Visits", "Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹10,000.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "sbi-card-elite",
+    "name": "SBI Card ELITE",
+    "issuer": "SBI Card",
+    "category": "travel",
+    "joiningFee": "₹4,999",
+    "annualFee": "₹4,999",
+    "loungeAccess": "8 domestic + 6 international visits/year, no spend condition",
+    "benefits": [
+      "Milestone vouchers on quarterly spend",
+      "Movie ticket discounts and dining privileges",
+      "Predictable lounge access with no minimum-spend gatekeeping"
+    ],
+    "bestFor": "Travellers who want guaranteed lounge visits without spend thresholds",
+    "slug": "sbi-card-elite",
+    "network": "Visa",
+    "whyItFits": ["International Lounge Access", "Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹4,999.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "indusind-avios-visa-infinite",
+    "name": "IndusInd Bank Avios Visa Infinite",
+    "issuer": "IndusInd Bank",
+    "category": "travel",
+    "joiningFee": "₹10,000",
+    "annualFee": "₹10,000",
+    "loungeAccess": "International lounge access via Priority Pass",
+    "benefits": [
+      "Earns British Airways Avios points directly",
+      "Strong fit for those who redeem via BA/Avios airline partners",
+      "Premium travel privileges bundle"
+    ],
+    "bestFor": "Frequent flyers loyal to the Avios/British Airways ecosystem",
+    "slug": "indusind-bank-avios-visa-infinite",
+    "network": "Visa",
+    "whyItFits": ["International Lounge Access", "Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹10,000.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "scapia-federal",
+    "name": "Scapia Federal Bank Credit Card",
+    "issuer": "Federal Bank",
+    "category": "travel",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "Unlimited domestic lounge visits on meeting spend criteria",
+    "benefits": [
+      "Zero forex markup on international spends",
+      "Built with a travel-booking app for flight/hotel discounts",
+      "No annual fee ever — good first travel card"
+    ],
+    "bestFor": "Beginners and Gen-Z travellers who want zero-fee international spending",
+    "slug": "scapia-federal-bank-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Zero Annual Fee", "Domestic Lounge Visits", "Travel & Flight Rewards"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "This card is lifetime free, but some premium benefits may require a minimum spend.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "makemytrip-icici-signature",
+    "name": "MakeMyTrip ICICI Bank Signature",
+    "issuer": "ICICI Bank",
+    "category": "travel",
+    "joiningFee": "₹999",
+    "annualFee": "₹999",
+    "loungeAccess": "Limited complimentary railway/airport lounge visits",
+    "benefits": [
+      "Milestone benefits including a MakeMyTrip holiday voucher",
+      "Good entry point for occasional domestic travellers",
+      "Fuel surcharge waiver included"
+    ],
+    "bestFor": "Occasional travellers who book often on MakeMyTrip",
+    "slug": "makemytrip-icici-bank-signature",
+    "network": "Visa",
+    "whyItFits": ["Domestic Lounge Visits", "Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      },
+      {
+        "icon": "🥂",
+        "label": "Lounge",
+        "rate": "Complimentary Access",
+        "theme": "purple"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹999.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "sc-easemytrip",
+    "name": "Standard Chartered EaseMyTrip",
+    "issuer": "Standard Chartered Bank",
+    "category": "travel",
+    "joiningFee": "₹350",
+    "annualFee": "₹350",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "Low-cost entry travel card",
+      "Discounts on EaseMyTrip bookings",
+      "Good starter card for budget-conscious travellers"
+    ],
+    "bestFor": "Budget travellers who want travel perks without a big annual fee",
+    "slug": "standard-chartered-easemytrip",
+    "network": "Visa",
+    "whyItFits": ["Travel & Flight Rewards", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "✈️",
+        "label": "Flights",
+        "rate": "Accelerated Travel Points",
+        "theme": "blue"
+      },
+      {
+        "icon": "🏨",
+        "label": "Hotels",
+        "rate": "Reward Multipliers on Stays",
+        "theme": "gold"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹350.",
+      "This card does not include complimentary airport lounge access.",
+      "Reward points transfer ratios to airline partners may change without notice."
+    ]
+  },
+  {
+    "id": "hdfc-millennia",
+    "name": "HDFC Millennia",
+    "issuer": "HDFC Bank",
+    "category": "shopping",
+    "joiningFee": "₹1,000 + GST",
+    "annualFee": "₹1,000 + GST (waived on ₹1L annual spend)",
+    "loungeAccess": "8 complimentary domestic lounge visits/year",
+    "benefits": [
+      "5% cashback on Amazon, Flipkart, Myntra, Swiggy, Zomato, Uber, BookMyShow, Sony LIV, Tata CLiQ, Cult.fit",
+      "1% cashback on all other spends",
+      "Covers the widest spread of popular Indian apps in one card"
+    ],
+    "bestFor": "Shoppers who spend across many popular online platforms",
+    "slug": "hdfc-millennia",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "Domestic Lounge Visits", "Cashback on Everyday Spends"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹1,000.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "sbi-cashback",
+    "name": "SBI Cashback Card",
+    "issuer": "SBI Card",
+    "category": "shopping",
+    "joiningFee": "₹999 + GST",
+    "annualFee": "₹999 + GST (waived on ₹2L annual spend)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "Flat 5% cashback on all online spends, merchant-agnostic",
+      "1% cashback on offline spends",
+      "No need to track category lists — works the same everywhere online"
+    ],
+    "bestFor": "Shoppers who spread purchases across many different websites",
+    "slug": "sbi-cashback-card",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹999.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "amazon-pay-icici",
+    "name": "Amazon Pay ICICI Credit Card",
+    "issuer": "ICICI Bank",
+    "category": "shopping",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "5% cashback on Amazon.in for Prime members (3% for non-Prime)",
+      "2% cashback at Amazon Pay partner merchants",
+      "1% on everything else, cashback lands as Amazon Pay balance"
+    ],
+    "bestFor": "Amazon-first households who want zero fees and simple redemption",
+    "slug": "amazon-pay-icici-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Zero Annual Fee", "Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "This card is lifetime free, but some premium benefits may require a minimum spend.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "flipkart-axis",
+    "name": "Flipkart Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "category": "shopping",
+    "joiningFee": "₹500",
+    "annualFee": "₹500 (waived on ₹3.5L annual spend)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "5% unlimited cashback on Flipkart and Cleartrip",
+      "4% on preferred partners: Swiggy, Uber, PVR, Cult.fit",
+      "1.5% cashback on all other spends"
+    ],
+    "bestFor": "Flipkart-first shoppers who also travel occasionally",
+    "slug": "flipkart-axis-bank-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹500.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "hdfc-swiggy",
+    "name": "HDFC Swiggy Credit Card",
+    "issuer": "HDFC Bank",
+    "category": "shopping",
+    "joiningFee": "₹500",
+    "annualFee": "₹500",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "10% cashback on Swiggy (food delivery, Instamart, Dineout)",
+      "5% cashback on other select online platforms",
+      "Great fit for the quick-commerce/food-delivery generation"
+    ],
+    "bestFor": "Frequent Swiggy, Instamart, and food-delivery users",
+    "slug": "hdfc-swiggy-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹500.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "flipkart-sbi",
+    "name": "Flipkart SBI Card",
+    "issuer": "SBI Card",
+    "category": "shopping",
+    "joiningFee": "₹499",
+    "annualFee": "₹499",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "5% cashback on Flipkart, Shopsy, and Flipkart Travel",
+      "7.5% cashback on Myntra — highest of any comparable card",
+      "Higher cashback on select partners like Zomato and Uber"
+    ],
+    "bestFor": "Fashion-focused shoppers who prioritize Myntra over general spend",
+    "slug": "flipkart-sbi-card",
+    "network": "Visa",
+    "whyItFits": ["Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹499.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "onecard",
+    "name": "OneCard",
+    "issuer": "FPL Technologies / partner banks",
+    "category": "shopping",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "Metal card, fully app-managed with no physical statements",
+      "5x rewards automatically applied to your top 2 spend categories each month",
+      "No paperwork, instant virtual card issuance"
+    ],
+    "bestFor": "Digitally-native users who want a no-fee, app-first card experience",
+    "slug": "onecard",
+    "network": "Visa",
+    "whyItFits": ["Zero Annual Fee", "Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "This card is lifetime free, but some premium benefits may require a minimum spend.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "idfc-first-select",
+    "name": "IDFC FIRST Select Credit Card",
+    "issuer": "IDFC FIRST Bank",
+    "category": "shopping",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "4 domestic/international visits per quarter (conditional)",
+    "benefits": [
+      "High, uncapped rewards on travel, dining, and international spends",
+      "Gift vouchers and lifestyle privileges",
+      "No joining or annual fee ever, even at higher income eligibility"
+    ],
+    "bestFor": "High-spend households who refuse to pay an annual fee",
+    "slug": "idfc-first-select-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Zero Annual Fee", "International Lounge Access", "Cashback on Everyday Spends"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "This card is lifetime free, but some premium benefits may require a minimum spend.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "hsbc-live-plus",
+    "name": "HSBC Live+ Credit Card",
+    "issuer": "HSBC Bank",
+    "category": "shopping",
+    "joiningFee": "₹999 + GST",
+    "annualFee": "₹999 + GST",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "10% cashback on dining, food delivery and groceries (capped monthly)",
+      "1.5% uncapped cashback on most other eligible spends",
+      "Strong pick for households with high grocery/dining spend"
+    ],
+    "bestFor": "Grocery and dining-heavy spenders",
+    "slug": "hsbc-live-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹999.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "amex-smartearn",
+    "name": "American Express SmartEarn Credit Card",
+    "issuer": "American Express",
+    "category": "shopping",
+    "joiningFee": "₹495 + GST",
+    "annualFee": "₹495 + GST (waived on spend threshold)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "Accelerated rewards on Amazon and other partner categories",
+      "Entry-level Amex card with easier eligibility than premium Amex cards",
+      "Good starter card for building an Amex relationship"
+    ],
+    "bestFor": "First-time cardholders who want to start with Amex",
+    "slug": "american-express-smartearn-credit-card",
+    "network": "American Express",
+    "whyItFits": ["Fee Waiver Available", "Cashback on Everyday Spends", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹495.",
+      "This card does not include complimentary airport lounge access.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "hsbc-rupay-cashback",
+    "name": "HSBC RuPay Cashback Credit Card",
+    "issuer": "HSBC Bank",
+    "category": "shopping",
+    "joiningFee": "₹499",
+    "annualFee": "₹499",
+    "loungeAccess": "8 domestic + 2 international visits/year",
+    "benefits": [
+      "RuPay network — works with UPI credit card linking",
+      "Flat cashback on online and app-based spends",
+      "Rare near-free card that still includes lounge access"
+    ],
+    "bestFor": "UPI-heavy users who want to link a credit card to their UPI app",
+    "slug": "hsbc-rupay-cashback-credit-card",
+    "network": "RuPay",
+    "whyItFits": [
+      "International Lounge Access",
+      "Cashback on Everyday Spends",
+      "Milestone Benefits"
+    ],
+    "earnCategories": [
+      {
+        "icon": "🛍️",
+        "label": "Shopping",
+        "rate": "5% Cashback on Select Apps",
+        "theme": "orange"
+      },
+      {
+        "icon": "🍽️",
+        "label": "Dining",
+        "rate": "Discounts on Food Delivery",
+        "theme": "pink"
+      },
+      {
+        "icon": "🎁",
+        "label": "Welcome Benefits",
+        "rate": "Bonus Points on Setup",
+        "theme": "green"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹499.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Cashback on specific partner apps is usually capped per billing cycle."
+    ]
+  },
+  {
+    "id": "bpcl-sbi-octane",
+    "name": "BPCL SBI Card OCTANE",
+    "issuer": "SBI Card",
+    "category": "bills",
+    "joiningFee": "₹1,499",
+    "annualFee": "₹1,499",
+    "loungeAccess": "4 complimentary domestic lounge visits/year",
+    "benefits": [
+      "7.25% value-back (25X reward points) on BPCL fuel purchases",
+      "10x reward points on dining, grocery, and department stores",
+      "1% fuel surcharge waiver on top of the fuel rewards"
+    ],
+    "bestFor": "Regular BPCL customers who want the highest fuel value-back in India",
+    "slug": "bpcl-sbi-card-octane",
+    "network": "Visa",
+    "whyItFits": ["Domestic Lounge Visits", "Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹1,499.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "indianoil-hdfc",
+    "name": "IndianOil HDFC Bank Credit Card",
+    "issuer": "HDFC Bank",
+    "category": "bills",
+    "joiningFee": "₹499 + GST",
+    "annualFee": "₹499 + GST (waived on ₹50,000 annual spend)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "5% fuel points at IndianOil outlets, groceries, and bill payments",
+      "1% fuel surcharge waiver on transactions of ₹400+",
+      "Rewards redeemable directly against fuel"
+    ],
+    "bestFor": "IndianOil-loyal drivers who also want grocery/bill rewards",
+    "slug": "indianoil-hdfc-bank-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹499.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "rbl-indianoil-xtra",
+    "name": "RBL Bank IndianOil XTRA Credit Card",
+    "issuer": "RBL Bank",
+    "category": "bills",
+    "joiningFee": "₹1,500",
+    "annualFee": "₹1,500",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "8.5% total value-back at IndianOil outlets (7.5% Fuel Points + 1% surcharge waiver)",
+      "Highest fuel savings rate among IndianOil co-branded cards",
+      "Fuel Points redeemable for fuel at IndianOil pumps"
+    ],
+    "bestFor": "Heavy IndianOil customers optimizing purely for fuel savings",
+    "slug": "rbl-bank-indianoil-xtra-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹1,500.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "indusind-jiobp-mobility",
+    "name": "IndusInd Bank Jio-BP Mobility+ Credit Card",
+    "issuer": "IndusInd Bank",
+    "category": "bills",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "Up to 4% back as rewards + surcharge waiver at Jio-BP fuel stations",
+      "2.25% value-back on dining and grocery spends",
+      "Rewards accrue as Jio-BP 'Smiles' loyalty points"
+    ],
+    "bestFor": "Jio-BP customers who want a zero-fee fuel card",
+    "slug": "indusind-bank-jio-bp-mobility-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Zero Annual Fee", "Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "This card is lifetime free, but some premium benefits may require a minimum spend.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "indusind-tiger",
+    "name": "IndusInd Bank Tiger Credit Card",
+    "issuer": "IndusInd Bank",
+    "category": "bills",
+    "joiningFee": "₹0 (lifetime free)",
+    "annualFee": "₹0 (lifetime free)",
+    "loungeAccess": "8 domestic + 2 international visits/year via Priority Pass",
+    "benefits": [
+      "Strongest lifetime-free lounge access in the market",
+      "No quarterly spend trigger required for lounge visits",
+      "Good all-round free card for light travellers and daily spenders"
+    ],
+    "bestFor": "Budget-conscious users who still want some lounge access",
+    "slug": "indusind-bank-tiger-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Zero Annual Fee", "International Lounge Access", "Fuel Surcharge Waiver"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "This card is lifetime free, but some premium benefits may require a minimum spend.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "sc-super-value-titanium",
+    "name": "Standard Chartered Super Value Titanium Credit Card",
+    "issuer": "Standard Chartered Bank",
+    "category": "bills",
+    "joiningFee": "₹499",
+    "annualFee": "₹499",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "5% cashback on fuel, mobile/phone bills, and utility bill payments",
+      "Simple, predictable cashback structure across essentials",
+      "Good fit for budget-focused households"
+    ],
+    "bestFor": "Households optimizing for fuel + utility + phone bill savings",
+    "slug": "standard-chartered-super-value-titanium-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹499.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "sbi-simplyclick",
+    "name": "SBI SimplyCLICK Credit Card",
+    "issuer": "SBI Card",
+    "category": "bills",
+    "joiningFee": "₹499 + GST",
+    "annualFee": "₹499 + GST (waived on ₹1L annual spend)",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "10X reward points (2.5% back) on select online partners incl. Cleartrip, Yatra, Myntra",
+      "5X reward points (1.25% back) on all other online spends",
+      "Milestone e-vouchers worth ₹2,000 on ₹1L+ annual spend"
+    ],
+    "bestFor": "Entry-level online shoppers who also want a fuel surcharge waiver",
+    "slug": "sbi-simplyclick-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹499.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "hdfc-moneyback-plus",
+    "name": "HDFC Bank MoneyBack+ Credit Card",
+    "issuer": "HDFC Bank",
+    "category": "bills",
+    "joiningFee": "₹500 + GST",
+    "annualFee": "₹500 + GST",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "10X CashPoints (~3.3% value-back) on Amazon, Flipkart, Swiggy, BigBasket, Reliance Smart",
+      "5X CashPoints on EMI purchases at merchant outlets",
+      "₹500 voucher on ₹50,000 quarterly spend"
+    ],
+    "bestFor": "Entry-level cardholders who want everyday cashback plus groceries",
+    "slug": "hdfc-bank-moneyback-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹500.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "axis-ace",
+    "name": "Axis Bank Ace Credit Card",
+    "issuer": "Axis Bank",
+    "category": "bills",
+    "joiningFee": "₹499",
+    "annualFee": "₹499 (waived on ₹2L annual spend)",
+    "loungeAccess": "4 complimentary lounge visits/year",
+    "benefits": [
+      "5% cashback on bill payments and recharges via Google Pay",
+      "4% cashback on Swiggy, Zomato, and Ola",
+      "2% cashback on other spends via any UPI app, plus 1% fuel surcharge waiver"
+    ],
+    "bestFor": "Digital-payment-heavy users who pay most bills via UPI apps",
+    "slug": "axis-bank-ace-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fee Waiver Available", "Domestic Lounge Visits", "Fuel Surcharge Waiver"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹499.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "airtel-axis",
+    "name": "Airtel Axis Bank Credit Card",
+    "issuer": "Axis Bank",
+    "category": "bills",
+    "joiningFee": "₹500",
+    "annualFee": "₹500",
+    "loungeAccess": "Not included",
+    "benefits": [
+      "Up to 25% cashback on Airtel mobile, DTH, and broadband bills",
+      "Highest single-category cashback rate on this list",
+      "Additional cashback on utility and grocery spends"
+    ],
+    "bestFor": "Airtel subscribers who want the single highest bill-cashback rate",
+    "slug": "airtel-axis-bank-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹500.",
+      "This card does not include complimentary airport lounge access.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  },
+  {
+    "id": "kotak-royale-signature",
+    "name": "Kotak Mahindra Bank Royale Signature Credit Card",
+    "issuer": "Kotak Mahindra Bank",
+    "category": "bills",
+    "joiningFee": "₹999",
+    "annualFee": "₹999",
+    "loungeAccess": "Domestic lounge visits included",
+    "benefits": [
+      "1% fuel surcharge waiver at all fuel stations (any brand, not just one co-brand)",
+      "General reward points on all other categories including bills",
+      "Good all-rounder for users who don't want to commit to one fuel brand"
+    ],
+    "bestFor": "Drivers who don't want to be locked into one fuel-station brand",
+    "slug": "kotak-mahindra-bank-royale-signature-credit-card",
+    "network": "Visa",
+    "whyItFits": ["Domestic Lounge Visits", "Fuel Surcharge Waiver", "Milestone Benefits"],
+    "earnCategories": [
+      {
+        "icon": "⛽",
+        "label": "Fuel",
+        "rate": "1% Surcharge Waiver + Value Back",
+        "theme": "gold"
+      },
+      {
+        "icon": "⚡",
+        "label": "Utilities",
+        "rate": "Cashback on Bill Payments",
+        "theme": "purple"
+      },
+      {
+        "icon": "🛒",
+        "label": "Groceries",
+        "rate": "Extra Points on Essentials",
+        "theme": "orange"
+      }
+    ],
+    "thingsToKnow": [
+      "Annual fee waiver requires meeting the spend threshold of ₹999.",
+      "Lounge access may be subject to a minimum spend in the previous quarter.",
+      "Fuel surcharge waiver only applies within standard transaction limits (typically ₹400–₹5,000)."
+    ]
+  }
+]

@@ -69,7 +69,7 @@ function Reveal({ children, className = "" }: { children: React.ReactNode; class
     if (!node) return;
     const observer = new IntersectionObserver(
       ([entry]) => {
-        if (entry.isIntersecting) {
+        if (entry?.isIntersecting) {
           node.classList.add("is-visible");
           observer.disconnect();
         }
